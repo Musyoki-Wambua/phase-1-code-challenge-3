@@ -1,0 +1,24 @@
+{
+  "name": "phase-1-code-challenge-3",
+  "version": "1.0.0",
+  "description": "Code Challenge 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musyoki-Wambua/phase-1-code-challenge-3.git"
+  },
+  "keywords": [
+    "Code",
+    "Challenge",
+    "3"
+  ],
+  "author": "Joseph Wambua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musyoki-Wambua/phase-1-code-challenge-3/issues"
+  },
+  "homepage": "https://github.com/Musyoki-Wambua/phase-1-code-challenge-3#readme"
+}
